@@ -2,6 +2,8 @@
 
 ![Video](/screenshot/timer.gif?raw=true "Run time Video")
 
+**live demo: [https://shindi-timer.netlify.app/](https://shindi-timer.netlify.app/)**
+
 ## Descrição
 
 Este é um projeto simples que reúnem as seguntes funcionalidades:
